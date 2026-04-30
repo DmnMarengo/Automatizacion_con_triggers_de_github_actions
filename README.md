@@ -25,3 +25,4 @@ Se adjuntan capturas de cada ejecución en la pestaña Actions.
 <img width="922" height="681" alt="mergeparaPR" src="https://github.com/user-attachments/assets/564aa8b5-bee4-4da7-838b-1bb871e4163e" />
 <img width="1350" height="648" alt="manual2" src="https://github.com/user-attachments/assets/6644ae02-31d2-4acf-8203-83518606a5cb" />
 <img width="335" height="360" alt="manual" src="https://github.com/user-attachments/assets/967810ae-197c-487e-8dbf-70a186eaf6ca" />
+<img width="1369" height="653" alt="ejecucíonProgramada" src="https://github.com/user-attachments/assets/ee18cbea-759e-477b-b45b-1e3994e1478a" />
