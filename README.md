@@ -12,7 +12,7 @@ Este repositorio contiene 6 workflows de GitHub Actions utilizando distintos tri
 3. issues → se ejecuta al crear issue.
 4. issue_comment → se ejecuta al comentar en PR.
 5. workflow_dispatch → ejecución manual con input choice.
-6. schedule → ejecución automática cada hora.
+6. schedule → ejecución automática cada 5 minutos.
 
 ## Evidencias
 
