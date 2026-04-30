@@ -1,1 +1,13 @@
+name: Issues Trigger
 
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  mensaje:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar mensaje
+        run: echo "Nuevo issue creado"
