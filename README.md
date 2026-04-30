@@ -21,3 +21,5 @@ Se adjuntan capturas de cada ejecución en la pestaña Actions.
 <img width="1339" height="657" alt="pullrequest2" src="https://github.com/user-attachments/assets/c5ca756c-57ff-4ea4-8481-97142c6ce721" />
 <img width="1333" height="650" alt="issuesCreacióndeIssue" src="https://github.com/user-attachments/assets/a7aee3ac-fcda-4cc8-a78f-36cae4c829d1" />
 <img width="1361" height="543" alt="Comentario en issue" src="https://github.com/user-attachments/assets/fe18723f-4e9e-434e-8f67-10a1773d3912" />
+<img width="1346" height="627" alt="PRdetectado" src="https://github.com/user-attachments/assets/8d52544a-3fdd-45d5-9db4-52e9b2fc570e" />
+<img width="922" height="681" alt="mergeparaPR" src="https://github.com/user-attachments/assets/564aa8b5-bee4-4da7-838b-1bb871e4163e" />
