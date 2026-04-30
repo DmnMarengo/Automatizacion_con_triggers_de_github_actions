@@ -1,0 +1,21 @@
+name: Manual Trigger
+
+on:
+  workflow_dispatch:
+    inputs:
+      alerta:
+        description: "Nivel de alerta"
+        required: true
+        type: choice
+        options:
+          - Bajo
+          - Medio
+          - Alto
+
+jobs:
+  mensaje:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar selección
+        run: echo "Nivel seleccionado: ${{ github.event.inputs.alerta }}"
