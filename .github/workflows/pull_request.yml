@@ -1,1 +1,14 @@
+name: Pull Request Trigger
 
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  mensaje:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Mostrar mensaje
+        run: echo "Pull request detectado"
